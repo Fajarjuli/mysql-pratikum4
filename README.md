@@ -34,7 +34,7 @@ INSERT INTO pegawai (id_pegawai, nama_depan, nama_belakang, email, telepon, tgl_
 
 ## Buat Table Pegawai dan Isi Data nya Seperti Berikut :
 
-![gambar](hasil dokumentasi/ss1.png)
+![gambar](dokumentasi/ss1.png)
 
 # Tugas Praktikum
 
